@@ -38,6 +38,8 @@
     padding: 20px;
     border: 2px solid #0000ff;
     border-radius: 10px;
+    margin-right: 190px;
+    margin-left: -50px;
   }
   
   .education-details {
@@ -61,6 +63,7 @@
     background-color: #0000ff;
     padding: 10px 20px;
     border-radius: 20px;
+    margin-left: -100px;
   }
   
   h3 {

@@ -25,6 +25,7 @@ body {
     z-index: 1000;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     height: 70px;
+    
   }
   
   .portfolio-title {
@@ -54,7 +55,7 @@ body {
     justify-content: center;
     align-items: center;
     height: calc(100vh - 100px);
-    margin-top: 80px;
+    margin-top: 100px;
   }
   
   .image-container {
@@ -64,7 +65,7 @@ body {
   .profile-image {
     position: relative;
     top: -80px;
-    left: -100px;
+    left: -50px;
     bottom: 150px;
     right: 20px;
     width: 600px;
@@ -92,7 +93,8 @@ body {
     width: 50px;
     font-size: 40px;
     margin-top: 20px;
-    margin-right: 80px;
+    margin-right: 40px;
+    margin-left: 50px;
   }
   .icons{
     width: 100% auto;
@@ -171,6 +173,7 @@ body {
   .buttons {
     margin-top: 40px;
     width: 600px;
+    margin-left: 90px;
   }
   
   .hire-me,
@@ -194,7 +197,7 @@ body {
   
   .hire-me:hover,
   .resume:hover {
-    background: #1558b3;
+    background: #1163d6;
   }
   
 

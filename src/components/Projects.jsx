@@ -1,5 +1,5 @@
 import React from 'react';
-import './Projects.css'; // Ensure you have a CSS file for styling
+import './Projects.css'; 
 
 const Projects = () => {
   const projects = [
@@ -26,7 +26,13 @@ const Projects = () => {
       name: "Quiz App",
       technology: "React",
       year: "2024",
-      link: "#",
+      link: "https://github.com/naveen-71/QuizApp",
+    },
+    {
+      name: "Movie Entry App",
+      technology: "Typescrpt, Node JS, SQL",
+      year: "2025",
+      link: "https://github.com/naveen-71/crackstar-movies",
     },
   ];
 

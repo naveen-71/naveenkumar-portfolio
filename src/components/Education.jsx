@@ -32,7 +32,7 @@ const Education = () => {
             <div>
               <h3>Government Higher Secondary School, Thandalaiputhur</h3>
               <p className="sub-title">HSC TN State Board</p>
-              <p className="score">55%</p>
+              <p className="score">65%</p>
             </div>
           </div>
           <span className="education-year">2018-19</span>
