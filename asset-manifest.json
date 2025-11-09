@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/myportfolio/static/css/main.689c33dc.css",
-    "main.js": "/myportfolio/static/js/main.37a819e7.js",
-    "static/js/453.1407b060.chunk.js": "/myportfolio/static/js/453.1407b060.chunk.js",
-    "static/media/Contact.jpg": "/myportfolio/static/media/Contact.4f9be4fa3134f7ca1e39.jpg",
-    "static/media/mine.jpg": "/myportfolio/static/media/mine.deacbb3b1deb45fde9f1.jpg",
-    "static/media/Education.png": "/myportfolio/static/media/Education.2e81ddbd7c6857d96daa.png",
-    "static/media/process-removebg-preview.png": "/myportfolio/static/media/process-removebg-preview.68807b5f198a8f66d388.png",
-    "static/media/Me.jpg": "/myportfolio/static/media/Me.d568711050d9fe8aeef7.jpg",
-    "index.html": "/myportfolio/index.html",
-    "main.689c33dc.css.map": "/myportfolio/static/css/main.689c33dc.css.map",
-    "main.37a819e7.js.map": "/myportfolio/static/js/main.37a819e7.js.map",
-    "453.1407b060.chunk.js.map": "/myportfolio/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/naveenkumar-portfolio/static/css/main.689c33dc.css",
+    "main.js": "/naveenkumar-portfolio/static/js/main.f6cab2f4.js",
+    "static/js/453.1407b060.chunk.js": "/naveenkumar-portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/Contact.jpg": "/naveenkumar-portfolio/static/media/Contact.4f9be4fa3134f7ca1e39.jpg",
+    "static/media/mine.jpg": "/naveenkumar-portfolio/static/media/mine.deacbb3b1deb45fde9f1.jpg",
+    "static/media/Education.png": "/naveenkumar-portfolio/static/media/Education.2e81ddbd7c6857d96daa.png",
+    "static/media/process-removebg-preview.png": "/naveenkumar-portfolio/static/media/process-removebg-preview.68807b5f198a8f66d388.png",
+    "static/media/Me.jpg": "/naveenkumar-portfolio/static/media/Me.d568711050d9fe8aeef7.jpg",
+    "index.html": "/naveenkumar-portfolio/index.html",
+    "main.689c33dc.css.map": "/naveenkumar-portfolio/static/css/main.689c33dc.css.map",
+    "main.f6cab2f4.js.map": "/naveenkumar-portfolio/static/js/main.f6cab2f4.js.map",
+    "453.1407b060.chunk.js.map": "/naveenkumar-portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.689c33dc.css",
-    "static/js/main.37a819e7.js"
+    "static/js/main.f6cab2f4.js"
   ]
 }
