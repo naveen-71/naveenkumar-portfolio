@@ -10,7 +10,7 @@ const About = () => {
     
       const handleResumeClick = () => {
         const link = document.createElement("a");
-        link.href = "/NaveenKumarResume.pdf";
+        link.href = "https://drive.google.com/file/d/1y4gIcrCz23MDtwQbVg3vwoF64HEWahTV/view?usp=sharing";
         link.download = "Naveenkumar_Resume.pdf";
         link.click();
       };
