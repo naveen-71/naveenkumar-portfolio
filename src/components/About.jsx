@@ -10,7 +10,7 @@ const About = () => {
     
       const handleResumeClick = () => {
         const link = document.createElement("a");
-        link.href = "/Naveen kumar.pdf";
+        link.href = "/NaveenKumarResume.pdf";
         link.download = "Naveenkumar_Resume.pdf";
         link.click();
       };
